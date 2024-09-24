@@ -32,7 +32,7 @@ var attention_check_thresh = 0.65
 var sumInstructTime = 0 //ms
 var instructTimeThresh = 0 ///in seconds
 
-var path = '/static/experiments/ravens/images/'
+var path = '/thesis/'
 var prefix = '<div><img src = "'
 var bottom_id = '" id="bottom_img'
 var postfix = '"</img></div>'
